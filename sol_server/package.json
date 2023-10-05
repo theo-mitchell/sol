@@ -1,0 +1,17 @@
+{
+  "name": "sol_server",
+  "version": "0.0.0",
+  "description": "A grunt-connect server for sol game development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Theo Mitchell",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-connect": "^4.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
